@@ -1,0 +1,8 @@
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\2 - C# Examples\LINQ Practice\File Handling\FileHanding\ReadingFromFile\bin\Debug\ReadingFromFile.exe.config
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\2 - C# Examples\LINQ Practice\File Handling\FileHanding\ReadingFromFile\bin\Debug\ReadingFromFile.exe
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\2 - C# Examples\LINQ Practice\File Handling\FileHanding\ReadingFromFile\bin\Debug\ReadingFromFile.pdb
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\2 - C# Examples\LINQ Practice\File Handling\FileHanding\ReadingFromFile\obj\Debug\ReadingFromFile.csproj.AssemblyReference.cache
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\2 - C# Examples\LINQ Practice\File Handling\FileHanding\ReadingFromFile\obj\Debug\ReadingFromFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\2 - C# Examples\LINQ Practice\File Handling\FileHanding\ReadingFromFile\obj\Debug\ReadingFromFile.csproj.CoreCompileInputs.cache
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\2 - C# Examples\LINQ Practice\File Handling\FileHanding\ReadingFromFile\obj\Debug\ReadingFromFile.exe
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\2 - C# Examples\LINQ Practice\File Handling\FileHanding\ReadingFromFile\obj\Debug\ReadingFromFile.pdb
